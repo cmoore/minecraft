@@ -5,4 +5,4 @@ resources
 stats
 texturepacks-mp-cache
 ForgeModLoader*
-saves
+saves/*
