@@ -9,6 +9,7 @@ saves/*
 config
 coremods
 lib
+lastlogin
 resources
 stats
 texturepacks-mp-cache
