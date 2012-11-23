@@ -20,3 +20,4 @@ bin/lwjgl_util.jar
 bin/md5s
 bin/natives/*
 bin/version
+.DS_Store
