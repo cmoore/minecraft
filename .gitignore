@@ -21,3 +21,11 @@ bin/md5s
 bin/natives/*
 bin/version
 .DS_Store
+screenshots/*
+options.txt
+
+servers.dat
+
+TMI.nbt
+
+TooManyItems.txt
