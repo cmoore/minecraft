@@ -23,9 +23,9 @@ bin/version
 .DS_Store
 screenshots/*
 options.txt
-
+crash-reports
 servers.dat
-
+*.tmp
 TMI.nbt
 
 TooManyItems.txt
@@ -41,3 +41,5 @@ saves/New World/region/r.0.-1.mca
 saves/New World/region/r.0.0.mca
 
 saves/New World/session.lock
+/output-client.log
+/output-server.log
